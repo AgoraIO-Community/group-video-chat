@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^5.2.0"
+    "vite": "^5.2.14"
   },
   "dependencies": {
     "agora-rtc-sdk-ng": "^4.20.2"
