@@ -5,9 +5,9 @@ Vanilla javascript implmentation of the Agora Video SDK for Web v4.2
 A walk-through of the project setup and code: [Guide.md](Guide.md)
 
 ## Demo
-![Group Video Demo](https://github.com/digitallysavvy/group-video-chat/actions/workflows/deploy-to-pages.yaml/badge.svg)
+![Group Video Demo](https://github.com/agoraio-community/group-video-chat/actions/workflows/deploy-to-pages.yaml/badge.svg)
 
-Test the build: [https://digitallysavvy.github.io/group-video-chat/](https://digitallysavvy.github.io/group-video-chat/)
+Test the build: [https://agoraio-community.github.io/group-video-chat/](https://agoraio-community.github.io/group-video-chat/)
 
 ## Setup
 
